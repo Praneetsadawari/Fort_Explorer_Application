@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Recipe Book</string>
+
+    //pasta
+
+    <string name="rajgad">Rajgad Fort
+Rajgad (literal meaning Ruling Fort) is a Hill region fort situated in the Pune district of Maharashtra, India. Formerly known as Murumbdev, the fort was the first capital of the Maratha Empire under the rule of Chhatrapati Shivaji for almost 26 years, after which the capital was moved to the Raigad Fort.</string>
+    <string name="f1">The most popular attraction types near Rajgad Fort are:
+Historic Sites
+Castles
+Caverns and Caves
+Waterfalls
+Points of Interest and Landmarks</string>
+
+    //maggi
+
+    <string name="sinhgad">Sinhgad Fort
+Sinhagad is an ancient hill fortress located at around 49 km southwest of the city of Pune, India. Previously known as Kondhana, the fort had been the site of many battles, most notably the Battle of Sinhagad in 1670. It is Located near the Pune district in Maharashtra.</string>
+    <string name="f2">Historic Sites
+Castles
+Caverns and Caves
+Waterfalls
+Points of Interest and Landmarks</string>
+
+    //cake
+
+    <string name="torna">Torna Fort
+Torna Fort, also known as Prachandagad, is a large fort located in Pune district, in the Indian state of Maharashtra. It is historically significant because it was the first fort captured by Chhatrapati Shivaji in 1646, at the age of 16.</string>
+    <string name="f3">Castles
+Caverns and Caves
+Waterfalls
+Points of Interest and Landmarks!</string>
+
+    //pancake
+
+    <string name="rajmachi">Rajmachi Fort
+Rajmachi Fort (Killa) is one of the many historical forts in the rugged hills of Sahyadri mountains (Western Ghats). It consists of two twin fortresses Shriwardhan and Manaranjan, with a wide machi (plateau) surrounding the two Balekillas.
+</string>
+    <string name="f4">Castles
+Caverns and Caves
+Waterfalls
+Points of Interest and Landmarks</string>
+
+    //pizza
+
+    <string name="tikona">Tikona Fort
+Tikona also known as Vitandgad, is the dominant hill fort in Maval in western India. It is located near Kamshet around 60 km from Pune</string>
+    <string name="f5">Castles
+Caverns and Caves
+Waterfalls
+Points of Interest and Landmarks</string>
+
+    //burgers
+
+    <string name="lohaga_fort">Lohagad Fort
+Lohagad is one of the many hill forts of Maharashtra state in India. Situated close to the hill station Lonavala and 52 km (32 mi) northwest of Pune, Lohagad rises to an elevation of 1,033 m (3,389 ft) above sea level. The fort is connected to the neighboring Visapur fort by a small range.</string>
+    <string name="f6">Castles
+Caverns and Caves
+Waterfalls
+Points of Interest and Landmarks</string>
+
+    //fries
+
+    <string name="korigad">Korigad Fort
+Korigad (also called Koraigad, Koarigad or Kumwarigad) is a hill fort located about 20 km (12 mi) south of Lonavla in Pune district, Maharashtra, India.</string>
+    <string name="f7">Castles
+Caverns and Caves
+Waterfalls
+Points of Interest and Landmarks</string>
+
+</resources>
